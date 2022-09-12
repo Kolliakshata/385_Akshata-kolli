@@ -138,5 +138,8 @@ print("The number of Vowels is: ",countV,"\nThe number of consonants is: ",count
 
 
 
+def abc():
+    print("hello python")
+abc()
 
 
